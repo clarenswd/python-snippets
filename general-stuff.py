@@ -15,6 +15,4 @@ for letter in 'Python':
 
 
 #ternary Operator 
-
-
 only_one_page  =  False if holder.number_pages > 1 else True
